@@ -79,10 +79,10 @@ ul li.active a{
 	font-size: 30px;
 	position: absolute;
 	top: 40%;
-	left: 35%;
+	left: 25%;
 }
 
-.column {
+.column{
   float: center;
   width: 33.33%;
   padding: 0.5px;
@@ -90,7 +90,7 @@ ul li.active a{
   margin-left: 650px
 }
 
-.column1 {
+.column1{
   float: center;
   width: 33.33%;
   padding: 0.5px;
@@ -98,7 +98,7 @@ ul li.active a{
   margin-left: 650px
 }
 
-.row {
+.row{
  content: "";
  display: table;
  clear: both;
