@@ -82,6 +82,14 @@ ul li.active a{
 	left: 25%;
 }
 
+.p-contact1{
+	color: #000;
+	font-size: 30px;
+	position: absolute;
+	top: 50%;
+	left: 35%;
+}
+
 .column{
   float: center;
   width: 33.33%;
