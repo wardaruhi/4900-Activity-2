@@ -15,3 +15,4 @@ This is basically a simple website about me, like a personal portfolio.
 
 ### Commits:
 My commits were me making edits on my contact page by adding more information to the content and positioning it so that it looks visually good as well.
+
